@@ -4,17 +4,17 @@
 
 **Technologies used :**
 
-REACT
+1.REACT
 
-VITE
+2.VITE
 
-MATERIAL-UI
+3.MATERIAL-UI
 
-HTML
+4.HTML
 
-JAVASCRIPT
+5.JAVASCRIPT
 
-CSS
+6.CSS
 
 **Author :**
 
