@@ -1,0 +1,21 @@
+.InfoBox{
+    margin-top: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+ 
+}
+.card{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.InfoBox .cardContent {
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: none;
+}
+.InfoBox.card {
+    background-color: whitesmoke;
+    box-shadow: none;
+}
